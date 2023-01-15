@@ -17,7 +17,7 @@ locality=none
 organization=none
 organizationalunit=none
 commonname=none
-email=admin@naravpn.com
+email=admin@aixxy.codes
 
 # simple password minimal
 curl -sS https://raw.githubusercontent.com/kenDevXD/script/main/ssh/password | openssl aes-256-cbc -d -a -pass pass:scvps07gg -pbkdf2 > /etc/pam.d/common-password
